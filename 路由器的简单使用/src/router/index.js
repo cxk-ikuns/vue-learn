@@ -2,8 +2,8 @@
 //引入路由器库
 import VueRouter from 'vue-router'
 //引入组件
-import About from '../components/About.vue'
-import Home from '../components/Home.vue'
+import About from '../pages/About.vue'
+import Home from '../pages/Home.vue'
 //创建并暴露路由器
 export default new VueRouter({
     //routes里面放一个个路由

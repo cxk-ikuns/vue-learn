@@ -1,9 +1,11 @@
 <template>
-    <h2>我是Home的内容</h2>
+   
+<div class="page-header"><h2>Vue Router Demo</h2></div>
+    
 </template>
 <script>
 export default {
-    name:'HomeIt'
+    name:'BannerIt'
 }
 </script>
 <style lang="">
